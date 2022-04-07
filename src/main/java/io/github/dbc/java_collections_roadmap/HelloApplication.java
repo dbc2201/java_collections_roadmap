@@ -24,5 +24,6 @@ public class HelloApplication extends Application {
         stage.setTitle("Java Collections Roadmap");
         stage.setScene(scene);
         stage.show();
+
     }
 }
